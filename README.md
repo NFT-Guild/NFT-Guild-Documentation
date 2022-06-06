@@ -8,5 +8,9 @@ description: >-
 
 Our mission is to facilitate the creation of a lively NFT developer and creator community and to ensure that projects have the resources they need and a clear understanding of best practices when getting started and throughout their journey in this space.
 
+Our [Website](https://www.nft-guild.io/)
+
+Our [Twitter ](https://twitter.com/the\_nft\_guild)
+
 
 
